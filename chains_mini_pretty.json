@@ -2573,18 +2573,18 @@
   "faucets": [],
   "infoURL": "https://eluv.io"
 }, {
-  "name": "Ether-1",
+  "name": "Etho Protocol",
   "chainId": 1313114,
   "shortName": "etho",
   "networkId": 1313114,
   "nativeCurrency": {
-    "name": "Ether-1 Ether",
+    "name": "Etho Protocol",
     "symbol": "ETHO",
     "decimals": 18
   },
   "rpc": ["https://rpc.ether1.org"],
   "faucets": [],
-  "infoURL": "https://ether1.org"
+  "infoURL": "https://ethoprotocol.com"
 }, {
   "name": "Xerom",
   "chainId": 1313500,
