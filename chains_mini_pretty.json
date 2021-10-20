@@ -1932,7 +1932,7 @@
     "symbol": "PHOTON",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["http://arsiamons.rpc.evmos.org:8545/"],
   "faucets": ["https://faucet.evmos.org"],
   "infoURL": "https://evmos.org"
 }, {
