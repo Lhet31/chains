@@ -2075,7 +2075,7 @@
     "symbol": "NRG",
     "decimals": 18
   },
-  "rpc": ["https://nodeapi.gen3.energi.network"],
+  "rpc": ["https://nodeapi.energi.network"],
   "faucets": [],
   "infoURL": "https://www.energi.world/"
 }, {
@@ -2176,10 +2176,10 @@
   "networkId": 49797,
   "nativeCurrency": {
     "name": "Energi",
-    "symbol": "tNRG",
+    "symbol": "NRG",
     "decimals": 18
   },
-  "rpc": ["https://nodeapi.test3.energi.network"],
+  "rpc": ["https://nodeapi.test.energi.network"],
   "faucets": [],
   "infoURL": "https://www.energi.world/"
 }, {
