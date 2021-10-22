@@ -2530,7 +2530,7 @@
   "name": "Smart Bitcoin Cash",
   "chain": "smartBCH",
   "network": "mainnet",
-  "rpc": ["https://smartbch.greyh.at", "https://rpc-mainnet.smartbch.org", "https://smartbch.fountainhead.cash/mainnet"],
+  "rpc": ["https://smartbch.greyh.at", "https://rpc-mainnet.smartbch.org", "https://smartbch.fountainhead.cash/mainnet", "https://smartbch.devops.cash/mainnet"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin Cash",
@@ -2545,7 +2545,7 @@
   "name": "Smart Bitcoin Cash Testnet",
   "chain": "smartBCHTest",
   "network": "testnet",
-  "rpc": ["https://rpc-testnet.smartbch.org"],
+  "rpc": ["https://rpc-testnet.smartbch.org", "https://smartbch.devops.cash/testnet"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitcoin Cash Test Token",

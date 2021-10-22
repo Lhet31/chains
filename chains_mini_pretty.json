@@ -1945,7 +1945,7 @@
     "symbol": "BCH",
     "decimals": 18
   },
-  "rpc": ["https://smartbch.greyh.at", "https://rpc-mainnet.smartbch.org", "https://smartbch.fountainhead.cash/mainnet"],
+  "rpc": ["https://smartbch.greyh.at", "https://rpc-mainnet.smartbch.org", "https://smartbch.fountainhead.cash/mainnet", "https://smartbch.devops.cash/mainnet"],
   "faucets": [],
   "infoURL": "https://smartbch.org/"
 }, {
@@ -1958,7 +1958,7 @@
     "symbol": "BCHT",
     "decimals": 18
   },
-  "rpc": ["https://rpc-testnet.smartbch.org"],
+  "rpc": ["https://rpc-testnet.smartbch.org", "https://smartbch.devops.cash/testnet"],
   "faucets": [],
   "infoURL": "http://smartbch.org/"
 }, {
