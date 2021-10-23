@@ -1741,6 +1741,32 @@
   "faucets": [],
   "infoURL": "http://edgewa.re"
 }, {
+  "name": "Ecoball Mainnet",
+  "chainId": 2100,
+  "shortName": "eco",
+  "networkId": 2100,
+  "nativeCurrency": {
+    "name": "Ecoball Coin",
+    "symbol": "ECO",
+    "decimals": 18
+  },
+  "rpc": ["https://api.ecoball.org/ecoball/"],
+  "faucets": [],
+  "infoURL": "https://ecoball.org"
+}, {
+  "name": "Ecoball Testnet Espuma",
+  "chainId": 2101,
+  "shortName": "esp",
+  "networkId": 2101,
+  "nativeCurrency": {
+    "name": "Espuma Coin",
+    "symbol": "ECO",
+    "decimals": 18
+  },
+  "rpc": ["https://api.ecoball.org/espuma/"],
+  "faucets": [],
+  "infoURL": "https://ecoball.org"
+}, {
   "name": "Kortho Mainnet",
   "chainId": 2559,
   "shortName": "ktoc",
