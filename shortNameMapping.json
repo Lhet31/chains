@@ -80,6 +80,7 @@
   "resil": "eip155:172",
   "aox": "eip155:200",
   "EDI": "eip155:211",
+  "ASK": "eip155:222",
   "ewt": "eip155:246",
   "ftm": "eip155:250",
   "hecot": "eip155:256",
